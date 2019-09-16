@@ -1,5 +1,5 @@
-#ifndef __CONSTS_H__
-#define __CONSTS_H__
+#ifndef __DEFS_H__
+#define __DEFS_H__
 
 // TYPE DEFINITIONS
 typedef unsigned  char uc;
